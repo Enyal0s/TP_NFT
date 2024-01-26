@@ -1,0 +1,11 @@
+{
+    "name": "MER",
+    "description": "A short description of my piece of art...",
+    "image": "https://femmeslyon.hypotheses.org/files/2024/01/affirmation_v05-copie.jpg",
+    "attributes": [
+        {
+            "trait_type": "Beauty",
+            "value": 100
+        }
+    ]
+}
