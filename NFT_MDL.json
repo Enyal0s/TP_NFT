@@ -1,7 +1,7 @@
 {
     "name": "MDL",
     "description": "Madeline de Celeste",
-    "image": "https://github.com/Enyal0s/TP_NFT/blob/9011619c66f586d98840dee6ca41b3ebad7f13e6/Madeline.png",
+    "image": "https://raw.githubusercontent.com/Enyal0s/TP_NFT/9011619c66f586d98840dee6ca41b3ebad7f13e6/Madeline.png",
     "attributes": [
         {
             "trait_type": "Beauty",
